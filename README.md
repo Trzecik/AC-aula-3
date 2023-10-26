@@ -25,5 +25,8 @@
 
 #### Imagem processador 
   ![Alt text](core.jpg)
+  
+---
+
 #### Imagem CPU
 ![Alt text](Capturar3.PNG)
