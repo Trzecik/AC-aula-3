@@ -4,10 +4,11 @@
 
 | Processador | Velocidade |
 | ----------- | ----------- |
-| Intel Core i3-1005G1 | 1,30 GHz |
+| Intel Core i3-1005G1 | 1,19 GHz |
 
 ---
 ## Curiosidades
+> Os modelos mais atuais aguentam 16 GB e 32 GB de memória RAM. Os de primeira geração tem suporte oficial para até 8GB e 16GB.
 
 | Processador | Bits |
 | ----------- | ----------- |
@@ -15,11 +16,11 @@
 
 | Ghz | Hz |
 | ----------- | ----------- |
-|  1,30 GHz | 1,3 Bilhões |
+|  1,19 GHz | 1,19 Bilhões |
 
 | Hz | Ciclos |
 | ----------- | ----------- |
-|  1,3 Bilhões | 1,3 Bilhões |
+|  1,19 Bilhões | 1,19 Bilhões |
 
 ---
 
