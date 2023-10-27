@@ -14,7 +14,7 @@
 #### Imagem processador 
   ![Alt text](core.jpg)
   
-> Os modelos mais atuais suportam 16 GB e 32 GB de memória RAM. Os de primeira geração tem suporte oficial para até 8GB e 16GB.
+#### Os modelos mais atuais suportam 16 GB e 32 GB de memória RAM. Os de primeira geração tem suporte oficial para até 8GB e 16GB.
 
 | Processador | Bits |
 | ----------- | ----------- |
